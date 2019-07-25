@@ -1,0 +1,5 @@
+print (8 + 0)
+print (7 + 1)
+print (6 + 2)
+print (5 + 3)
+print (4 + 4)
