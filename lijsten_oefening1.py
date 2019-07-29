@@ -1,3 +1,5 @@
-for val in range (1,1000001):
+numbers = list(range(1, 1000001))
 
-print('Maximum is:', max(val))
+print(min(numbers))
+print(max(numbers))
+print(sum(numbers))
