@@ -10,4 +10,4 @@ elif age >64:
     price = 3
 else:
     price = 10
-print ("De toegangsprijs is $ " + str(price) + " want je leeftijd is " + str(age) +"!")
+print ("De toegangsprijs is $" + str(price) +",-" + " want je leeftijd is " + str(age) +", oud hoor!")
